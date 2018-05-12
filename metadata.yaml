@@ -1,0 +1,45 @@
+_repo: Sam-This-is-You_32324
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hunter, Mel
+    alias: Hunter
+    birthdate: 1927
+    deathdate: 2004
+    gutenberg_agent_id: '34425'
+    url: http://www.gutenberg.org/2009/agents/34425
+    wikipedia: http://en.wikipedia.org/wiki/Mel_Hunter
+covers:
+- cover_type: archival
+  image_path: 32324-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, William Fitzgerald
+    - Jenkins, Will
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: What if you could talk to the version of you who existed ten days ago,
+  or the you who will exist ten days in the future? That's exactly what enterprising
+  telephone lineman Sam Yoder figures out how to do in the surprisingly funny science-fiction
+  story Sam, This Is You. At first, he focuses on the money-making potential of his
+  little scheme but before long, he runs into some unforeseen complications.
+gutenberg_issued: '2010-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telephone -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Sam, This is You
+url: http://www.gutenberg.org/ebooks/32324
